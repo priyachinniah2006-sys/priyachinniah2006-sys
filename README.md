@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Priyadharshini.C 👋
 
-<!--
-**priyachinniah2006-sys/priyachinniah2006-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Intern | Python | SQL | Data Analytics | AI | Power BI
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a B.E. Computer Science and Engineering student
+interested in Data Science, Data Analytics, Artificial Intelligence,
+Python, SQL and Machine Learning.
+
+Currently developing my skills through practical projects and
+real-world data science applications.
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Power BI
+- Excel
+- HTML & CSS
+- Git & GitHub
+
+## 📂 Projects
+
+### 🏥 AI Healthcare Assistant
+An AI-based healthcare assistant designed to provide
+health-related information and assistance.
+
+### 💪 FitHub-CRM
+A CRM project for managing fitness-center operations
+and customer-related information.
+
+### 📊 Data Science Portfolio
+Collection of my data science, analytics and programming work.
+
+## 🎓 Education
+
+**B.E. Computer Science and Engineering**
+
+## 💼 Internship
+
+**Data Science Intern**
+
+Currently gaining practical experience in Data Science,
+Data Analytics, Python, SQL and AI.
+
+## 📈 Currently Learning
+
+- Data Science
+- Data Analytics
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Artificial Intelligence
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/priyachinniah2006-sys
+- LinkedIn: Add your LinkedIn URL here
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
