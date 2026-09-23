@@ -60,7 +60,7 @@ Data Analytics, Python, SQL and AI.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/priyachinniah2006-sys
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/priyadharshini2006
 
 ---
 
